@@ -46,7 +46,10 @@ Spam Message
 ![Spam Detector](images/app.png)
 
 ## Demonstration
-Check out the [working model clip](working%20model%20clip.mp4) for reference.
+
+<video src="https://github.com/niranjan0342/spam-email-detector/raw/main/working_model_clip.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
+
+If the video doesn't play inline, [click here to view/download the working model clip](https://github.com/niranjan0342/spam-email-detector/raw/main/working_model_clip.mp4).
 
 ## Author
 Niranjan
