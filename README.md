@@ -47,9 +47,12 @@ Spam Message
 
 ## Demonstration
 
-<video src="https://github.com/niranjan0342/spam-email-detector/raw/main/working_model_clip.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
+Click the image below to watch the working model clip in real-time (it will open GitHub's built-in video player instead of downloading):
 
-If the video doesn't play inline, [click here to view/download the working model clip](https://github.com/niranjan0342/spam-email-detector/raw/main/working_model_clip.mp4).
+[![Watch the video demo](images/app.png)](https://github.com/niranjan0342/spam-email-detector/blob/main/working_model_clip.mp4)
+
+[Or click here to watch the demonstration video](https://github.com/niranjan0342/spam-email-detector/blob/main/working_model_clip.mp4)
+
 
 ## Author
 Niranjan
