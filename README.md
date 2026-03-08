@@ -45,5 +45,8 @@ Spam Message
 
 ![Spam Detector](images/app.png)
 
+## Demonstration
+Check out the [working model clip](working%20model%20clip.mp4) for reference.
+
 ## Author
 Niranjan
